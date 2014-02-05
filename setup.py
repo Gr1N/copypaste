@@ -26,7 +26,7 @@ setup(
     ),
     author='Nikita Grishko',
     author_email='grin.minsk@gmail.com',
-    url='https://github.com/Gr1N/copypaste',
+    url='http://gr1n.github.io/copypaste/',
     license='MIT',
     packages=find_packages(),
     extras_require={
