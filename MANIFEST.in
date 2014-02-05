@@ -1,0 +1,4 @@
+graft copypaste
+prune tests/
+prune tox.ini
+include *.rst *.in LICENSE
