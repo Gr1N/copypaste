@@ -12,7 +12,7 @@ def read(*rnames):
 
 setup(
     name='copypaste',
-    version='0.1',
+    version='0.2.dev0',
     description='Platform independent copy + paste library for Python',
     long_description=read('README.rst'),
     classifiers=(
