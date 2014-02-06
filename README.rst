@@ -35,6 +35,22 @@ Usage
     "I'm here to make web a better place!!"
     >>>
 
+
+Command line usage
+------------------
+
+::
+
+    % copy "I'm here to make web a better place!!"
+    % paste
+    I'm here to make web a better place!!
+    %
+    % echo I\'m here to make web a better place!! | copy
+    % paste
+    I'm here to make web a better place!!
+    %
+
+
 License
 -------
 
